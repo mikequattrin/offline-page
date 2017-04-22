@@ -1,4 +1,7 @@
 # Offline Page
 ## Simple offline page using service workers
 
-Note: Service Workers require an HTTPS enabled website, although, they can be developed at http://localhost
+Notes: 
+* Service Worker requires your production site to be HTTPS enabled
+* Service Worker only works in localhost and not at a file://
+* Service Worker doesn't have access to the DOM
