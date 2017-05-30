@@ -1,0 +1,12 @@
+{
+  "name": "offline-page",
+  "version": "1.0.0",
+  "description": "Offline page using service workers",
+  "main": "index.html",
+  "keywords": [],
+  "author": "Mike Quattrin",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "1.2.0"
+  }
+}
