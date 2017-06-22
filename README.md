@@ -10,7 +10,3 @@ Notes:
 Setup:
 
 * Run python -m SimpleHTTPServer in project directory
-
-ToDo:
-* Add functionality to offline load home page javascript files, and style files
-* Write docs for debugging service workers using firefox 
